@@ -1,6 +1,6 @@
-# My first completed project
+A simple automatic night light with LDR contains 3 stages of light level checker made with arduino
 
-## Components
+## Components 
 - Arduino UNO
 - Jumpers Wires
 - Button
